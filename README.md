@@ -1,4 +1,4 @@
 # JAVA
-The solved Practice Program.
+The Solved Practice Program.
 <br>
 Author-Prathmesh Panmand.

@@ -1,4 +1,4 @@
-// Not run just define 
+
 
 class Student {
     String name;
@@ -19,7 +19,7 @@ class Student {
 public class Main1 {
     public static void main(String[] args) {
         Student s1 = new Student("Prathmesh", 20);
-        Student s2 = new Student("Rahul", 21);
+        Student s2 = new Student("Shraddha", 19);
 
         s1.display();
         s2.display();

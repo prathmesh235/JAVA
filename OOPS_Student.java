@@ -10,7 +10,7 @@ class Student {
 }
 
 
-public class OOPS {
+public class OOPS_Student {
    public static void main(String args[]) {
        Student s1 = new Student();
        s1.name = "Shraddha";

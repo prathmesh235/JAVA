@@ -14,7 +14,6 @@ class Studdd{
         this.age=s2.age;
         
     }
-    
     Studdd(){
 
     }

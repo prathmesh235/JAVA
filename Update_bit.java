@@ -8,7 +8,7 @@ public class Update_bit {
     int pos = 2;
 
     int bitMask=1<<pos;
-    if(oper ==1){
+        if(oper ==1){
         int newNumber= bitMask |n;
         System.out.println(newNumber);
     }else{

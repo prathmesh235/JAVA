@@ -17,7 +17,7 @@ class Studd{
     }
 }
 
-public class Con_Studd_Non_P{
+public class Con_Studd_P{
     public static void main(String[] args) {
         
         Studd s1=new Studd("Prathmesh",20);

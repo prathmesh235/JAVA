@@ -1,5 +1,5 @@
 # JAVA
 The Solved Program.
 <br>
-Author:-Prathmesh Panmand.
+Author:-Prathmesh Panmand
 
